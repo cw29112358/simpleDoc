@@ -1,0 +1,68 @@
+/**
+ *
+ * third party component
+ *
+ * */
+
+/** ==================================================================================================================*/
+classnames 动态控制样式
+
+prop-types 类型检查
+
+react-intl 国际化
+
+react-device-detect 检测设备，并根据检测到的设备类型呈现视图。
+
+react-router React的声明性路由。
+
+moment 时间格式化
+
+react-helmet 管理对文档头的所有更改。
+
+LazyLoad 懒加载组件（可以用于滚动加载组件或图片等）
+
+react-router-redux 将react-router 和 redux 集成到一起，用redux的方式去操作react-router。
+
+styled-components 针对React写的一套css in js框架
+
+react-slick react轮播图插件
+
+redux-form redux用来管理状态，redux-form来负责表单数据部分。
+
+reselect 创建一个可以记忆的Selector,Reselector能够帮助避免多余的重复计算。
+
+react-datepicker 日期组件
+
+react-contenteditable 富文本编辑器
+
+immutable 一旦创建，就不能更改的数据。
+
+react-number-format 数字格式化输出
+
+react-router-transitions 该模块的主要目标是通过在用户返回或前进时提供正确的动画来处理历史导航。特别是在移动设备上需要提供出色的用户体验。
+
+react-transition-group 该模块的主要目标是通过在用户返回或前进时提供正确的动画来处理历史导航。特别是在移动设备上需要提供出色的用户体验。
+
+react-bootstrap
+warning
+invariant
+crypto-js
+react-router-scroll
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reselect-immutable-helpers
