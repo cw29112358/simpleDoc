@@ -34,7 +34,7 @@ password: dd2w...
 
 # 程序员客栈
 
-昵称：theway0916
+昵称：theway...
 密码：dd2w...
 
 # app ID
@@ -72,3 +72,19 @@ Docker ID: 5141...
 网址：http://www.12333sb.com/yanglao/shanghai.html
 用户名：身份证号
 密码：33...
+
+# 个人所得税app
+用户名：身份证号
+密码：Dd2w...&
+
+# 友盟
+用户名：theway...
+密码：Test....
+
+# 向日葵
+用户名：151...9707
+密码：test....
+
+# yapi
+用户名：theway(5141....)
+密码：Testxunce12
